@@ -1,2 +1,1 @@
-#readme file 
-first one
+#random pasword generator file
